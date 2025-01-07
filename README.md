@@ -42,32 +42,6 @@ Pastikan perangkat Anda telah memiliki:
 
 ---
 
-## Project Structure
-.idea
-android/
-ios/
-lib/
-├── main.dart               
-├── splash_screen.dart
-├── login_screen.dart
-├── home_screen.dart
-└── detail_screen.dart
-linux/
-macos/
-test/
-web/
-windows/
-.gitignore
-.metadata
-analysis_options.yaml
-pubspec.lock
-pubspec.yaml                # File konfigurasi untuk Flutter
-README.md
-zegen.iml
-```
-
----
-
 ## API yang Digunakan
 
 Aplikasi ini menggunakan API berikut untuk mendapatkan daftar nama:
@@ -92,9 +66,3 @@ Aplikasi ini menggunakan API berikut untuk mendapatkan daftar nama:
 ## Contributor
 
 Dibuat oleh: **Joshua Kenneth Van Dyon**
-
-Jika Anda memiliki pertanyaan silakan hubungi saya melalui email: joshua.ken1204@gmail.com
-
----
-
-Selamat mencoba dan terima kasih!
