@@ -1,5 +1,3 @@
-# README
-
 ## Aplikasi Daftar Nama
 
 Aplikasi Flutter sederhana yang menampilkan daftar nama dari API publik. Aplikasi ini memiliki fitur berikut:
