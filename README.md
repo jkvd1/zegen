@@ -38,7 +38,7 @@ Pastikan perangkat Anda telah memiliki:
      ```bash
      flutter run
      ```
-   - Pilih perangkat tempat aplikasi akan dijalankan.
+   - Pilih perangkat tempat aplikasi akan dijalankan. (untuk mempermudah proses debug, saya sarankan untuk menjalankannnya di browser chrome)
 
 ---
 
